@@ -9,7 +9,7 @@
 
 <!-- Replace the src below with your current illustration image path/link -->
 <p align='center'>
-  <img src='YOUR_ILLUSTRATION_LINK_HERE' alt='X-Ray World Illustration' width='100%'> <!--[cite: 2] -->
+  <img src='x-ray.png' alt='X-Ray World Illustration' width='100%'> <!--[cite: 2] -->
 </p>
 
 <hr>
